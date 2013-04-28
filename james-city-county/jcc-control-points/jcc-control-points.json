@@ -1,0 +1,105 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "CONTROL83A": 1, "CONTROL8_1": 301, "X": 11962522.2971, "Y": 3663977.67598, "Elevation": 99.58, "LatDD": 37.3741518239, "LongDD": -76.849401364399995, "LatDMS": "37º 22' 27\" N", "LongDMS": "76º 50' 58\" W" }, "geometry": { "type": "Point", "coordinates": [ 11962522.29720002412796, 3663977.676033437252045 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 2, "CONTROL8_1": 302, "X": 11980141.9031, "Y": 3672750.77807, "Elevation": 80.8, "LatDD": 37.397381369800001, "LongDD": -76.788227804300007, "LatDMS": "37º 23' 51\" N", "LongDMS": "76º 47' 18\" W" }, "geometry": { "type": "Point", "coordinates": [ 11980141.903036862611771, 3672750.777909770607948 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 3, "CONTROL8_1": 303, "X": 11975645.441, "Y": 3670041.22798, "Elevation": 113.13, "LatDD": 37.390163771099999, "LongDD": -76.803871777599994, "LatDMS": "37º 23' 25\" N", "LongDMS": "76º 48' 14\" W" }, "geometry": { "type": "Point", "coordinates": [ 11975645.440901190042496, 3670041.22788268327713 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 4, "CONTROL8_1": 304, "X": 11977536.9979, "Y": 3665244.28488, "Elevation": 106.86, "LatDD": 37.376897709200001, "LongDD": -76.797659582600005, "LatDMS": "37º 22' 37\" N", "LongDMS": "76º 47' 52\" W" }, "geometry": { "type": "Point", "coordinates": [ 11977536.997813612222672, 3665244.284720689058304 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 5, "CONTROL8_1": 305, "X": 11984411.276, "Y": 3665098.40507, "Elevation": 132.12, "LatDD": 37.376154317299999, "LongDD": -76.774014715500002, "LatDMS": "37º 22' 34\" N", "LongDMS": "76º 46' 26\" W" }, "geometry": { "type": "Point", "coordinates": [ 11984411.276059776544571, 3665098.405091181397438 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 6, "CONTROL8_1": 306, "X": 11986404.3561, "Y": 3661140.54599, "Elevation": 100.4, "LatDD": 37.365185683699998, "LongDD": -76.767406676099995, "LatDMS": "37º 21' 55\" N", "LongDMS": "76º 46' 3\" W" }, "geometry": { "type": "Point", "coordinates": [ 11986404.356063112616539, 3661140.545880943536758 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 7, "CONTROL8_1": 307, "X": 11987719.4261, "Y": 3656066.45805, "Elevation": 118.35, "LatDD": 37.351185749400003, "LongDD": -76.763203501600003, "LatDMS": "37º 21' 4\" N", "LongDMS": "76º 45' 48\" W" }, "geometry": { "type": "Point", "coordinates": [ 11987719.425939530134201, 3656066.457932025194168 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 8, "CONTROL8_1": 308, "X": 11987969.427, "Y": 3649526.26809, "Elevation": 113.37, "LatDD": 37.333213556399997, "LongDD": -76.762757594600004, "LatDMS": "37º 20' 0\" N", "LongDMS": "76º 45' 46\" W" }, "geometry": { "type": "Point", "coordinates": [ 11987969.427079945802689, 3649526.268256515264511 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 9, "CONTROL8_1": 309, "X": 11980267.6329, "Y": 3643181.51698, "Elevation": 101.76, "LatDD": 37.316176813799999, "LongDD": -76.789639161099998, "LatDMS": "37º 18' 58\" N", "LongDMS": "76º 47' 23\" W" }, "geometry": { "type": "Point", "coordinates": [ 11980267.632772281765938, 3643181.516838431358337 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 10, "CONTROL8_1": 310, "X": 11985894.196, "Y": 3642280.29407, "Elevation": 65.86, "LatDD": 37.313420469100002, "LongDD": -76.770350823499996, "LatDMS": "37º 18' 48\" N", "LongDMS": "76º 46' 13\" W" }, "geometry": { "type": "Point", "coordinates": [ 11985894.195994198322296, 3642280.294231429696083 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 11, "CONTROL8_1": 311, "X": 11985976.737, "Y": 3638467.12901, "Elevation": 48.11, "LatDD": 37.302945177, "LongDD": -76.770307273, "LatDMS": "37º 18' 11\" N", "LongDMS": "76º 46' 13\" W" }, "geometry": { "type": "Point", "coordinates": [ 11985976.737167686223984, 3638467.128957524895668 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 12, "CONTROL8_1": 312, "X": 11990385.589, "Y": 3636283.32306, "Elevation": 74.23, "LatDD": 37.296725524700001, "LongDD": -76.755290323599993, "LatDMS": "37º 17' 48\" N", "LongDMS": "76º 45' 19\" W" }, "geometry": { "type": "Point", "coordinates": [ 11990385.588914275169373, 3636283.322957679629326 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 13, "CONTROL8_1": 313, "X": 11977685.399, "Y": 3634781.64088, "Elevation": 97.45, "LatDD": 37.2932383566, "LongDD": -76.7990378083, "LatDMS": "37º 17' 36\" N", "LongDMS": "76º 47' 57\" W" }, "geometry": { "type": "Point", "coordinates": [ 11977685.399091616272926, 3634781.64092168211937 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 14, "CONTROL8_1": 314, "X": 11976104.6871, "Y": 3630497.49393, "Elevation": 87.41, "LatDD": 37.2815518608, "LongDD": -76.8047354176, "LatDMS": "37º 16' 54\" N", "LongDMS": "76º 48' 17\" W" }, "geometry": { "type": "Point", "coordinates": [ 11976104.687, 3630497.493978187441826 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 15, "CONTROL8_1": 315, "X": 11976555.785, "Y": 3623099.55908, "Elevation": 64.8, "LatDD": 37.261214273100002, "LongDD": -76.803642063, "LatDMS": "37º 15' 40\" N", "LongDMS": "76º 48' 13\" W" }, "geometry": { "type": "Point", "coordinates": [ 11976555.78488102555275, 3623099.5589709430933 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 16, "CONTROL8_1": 316, "X": 11981682.102, "Y": 3614619.31408, "Elevation": 27.17, "LatDD": 37.237672539499997, "LongDD": -76.786558537100007, "LatDMS": "37º 14' 16\" N", "LongDMS": "76º 47' 12\" W" }, "geometry": { "type": "Point", "coordinates": [ 11981682.102056190371513, 3614619.314120441675186 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 17, "CONTROL8_1": 317, "X": 11984156.7109, "Y": 3612791.87804, "Elevation": 31.01, "LatDD": 37.232530592800003, "LongDD": -76.7781737225, "LatDMS": "37º 13' 57\" N", "LongDMS": "76º 46' 41\" W" }, "geometry": { "type": "Point", "coordinates": [ 11984156.71095210313797, 3612791.878142774105072 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 18, "CONTROL8_1": 318, "X": 11990065.5611, "Y": 3614844.59613, "Elevation": 46.46, "LatDD": 37.237869774399996, "LongDD": -76.7577504968, "LatDMS": "37º 14' 16\" N", "LongDMS": "76º 45' 28\" W" }, "geometry": { "type": "Point", "coordinates": [ 11990065.561011031270027, 3614844.596150189638138 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 19, "CONTROL8_1": 319, "X": 11995919.1171, "Y": 3622521.65392, "Elevation": 101.31, "LatDD": 37.258652993299997, "LongDD": -76.737153517799996, "LatDMS": "37º 15' 31\" N", "LongDMS": "76º 44' 14\" W" }, "geometry": { "type": "Point", "coordinates": [ 11995919.117217272520065, 3622521.653958767652512 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 20, "CONTROL8_1": 320, "X": 11986114.1509, "Y": 3618876.57104, "Elevation": 30.18, "LatDD": 37.249141377100003, "LongDD": -76.771068398200001, "LatDMS": "37º 14' 57\" N", "LongDMS": "76º 46' 16\" W" }, "geometry": { "type": "Point", "coordinates": [ 11986114.150934860110283, 3618876.571025848388672 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 21, "CONTROL8_1": 321, "X": 11988616.6569, "Y": 3624001.56893, "Elevation": 78.72, "LatDD": 37.263088771900001, "LongDD": -76.762147876399993, "LatDMS": "37º 15' 47\" N", "LongDMS": "76º 45' 44\" W" }, "geometry": { "type": "Point", "coordinates": [ 11988616.656756609678268, 3624001.568977937102318 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 22, "CONTROL8_1": 322, "X": 11987143.3329, "Y": 3625902.57911, "Elevation": 65.61, "LatDD": 37.268383446199998, "LongDD": -76.767089949099997, "LatDMS": "37º 16' 6\" N", "LongDMS": "76º 46' 2\" W" }, "geometry": { "type": "Point", "coordinates": [ 11987143.332931607961655, 3625902.578955441713333 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 23, "CONTROL8_1": 323, "X": 11993484.723, "Y": 3642969.6519, "Elevation": 112.94, "LatDD": 37.314928643099996, "LongDD": -76.744210257600002, "LatDMS": "37º 18' 54\" N", "LongDMS": "76º 44' 39\" W" }, "geometry": { "type": "Point", "coordinates": [ 11993484.722807854413986, 3642969.651776596903801 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 24, "CONTROL8_1": 324, "X": 11996673.6871, "Y": 3636763.88703, "Elevation": 94.66, "LatDD": 37.297724030399998, "LongDD": -76.733645556100001, "LatDMS": "37º 17' 52\" N", "LongDMS": "76º 44' 1\" W" }, "geometry": { "type": "Point", "coordinates": [ 11996673.686902359127998, 3636763.886957183480263 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 25, "CONTROL8_1": 325, "X": 11995286.9829, "Y": 3628200.30097, "Elevation": 110.67, "LatDD": 37.274279234200002, "LongDD": -76.738961262100005, "LatDMS": "37º 16' 27\" N", "LongDMS": "76º 44' 20\" W" }, "geometry": { "type": "Point", "coordinates": [ 11995286.982982859015465, 3628200.301066026091576 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 26, "CONTROL8_1": 326, "X": 12033197.0471, "Y": 3600167.87496, "Elevation": 14.64, "LatDD": 37.19528851, "LongDD": -76.610624423700003, "LatDMS": "37º 11' 43\" N", "LongDMS": "76º 36' 38\" W" }, "geometry": { "type": "Point", "coordinates": [ 12033197.04725444316864, 3600167.874847516417503 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 27, "CONTROL8_1": 327, "X": 12030228.2939, "Y": 3607530.72604, "Elevation": 72.1, "LatDD": 37.215669666899998, "LongDD": -76.620311579, "LatDMS": "37º 12' 56\" N", "LongDMS": "76º 37' 13\" W" }, "geometry": { "type": "Point", "coordinates": [ 12030228.29400560259819, 3607530.725935429334641 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 28, "CONTROL8_1": 328, "X": 12025065.4649, "Y": 3615320.54493, "Elevation": 88.62, "LatDD": 37.237341552899998, "LongDD": -76.637510441200007, "LatDMS": "37º 14' 14\" N", "LongDMS": "76º 38' 15\" W" }, "geometry": { "type": "Point", "coordinates": [ 12025065.464764356613159, 3615320.545001432299614 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 29, "CONTROL8_1": 329, "X": 12017617.7501, "Y": 3620252.79402, "Elevation": 118.14, "LatDD": 37.251286350400001, "LongDD": -76.662759982200001, "LatDMS": "37º 15' 5\" N", "LongDMS": "76º 39' 46\" W" }, "geometry": { "type": "Point", "coordinates": [ 12017617.750001028180122, 3620252.793995186686516 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 30, "CONTROL8_1": 330, "X": 12019964.1109, "Y": 3613231.48508, "Elevation": 95.65, "LatDD": 37.231880072800003, "LongDD": -76.655171299900005, "LatDMS": "37º 13' 55\" N", "LongDMS": "76º 39' 19\" W" }, "geometry": { "type": "Point", "coordinates": [ 12019964.110793858766556, 3613231.485203191637993 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 31, "CONTROL8_1": 331, "X": 12015904.011, "Y": 3613317.28195, "Elevation": 64.84, "LatDD": 37.232332752300003, "LongDD": -76.669109051899994, "LatDMS": "37º 13' 56\" N", "LongDMS": "76º 40' 9\" W" }, "geometry": { "type": "Point", "coordinates": [ 12015904.010974436998367, 3613317.28194759786129 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 32, "CONTROL8_1": 332, "X": 12000709.2191, "Y": 3617282.5791, "Elevation": 71.71, "LatDD": 37.244019456099998, "LongDD": -76.721036235699998, "LatDMS": "37º 14' 38\" N", "LongDMS": "76º 43' 16\" W" }, "geometry": { "type": "Point", "coordinates": [ 12000709.21918560564518, 3617282.579135105013847 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 33, "CONTROL8_1": 333, "X": 11997800.072, "Y": 3610410.71196, "Elevation": 28.29, "LatDD": 37.225299058099999, "LongDD": -76.731470998, "LatDMS": "37º 13' 31\" N", "LongDMS": "76º 43' 53\" W" }, "geometry": { "type": "Point", "coordinates": [ 11997800.072116777300835, 3610410.71197335422039 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 34, "CONTROL8_1": 334, "X": 11990763.625, "Y": 3611762.37199, "Elevation": 9.76, "LatDD": 37.229370366, "LongDD": -76.755548568600005, "LatDMS": "37º 13' 46\" N", "LongDMS": "76º 45' 20\" W" }, "geometry": { "type": "Point", "coordinates": [ 11990763.624903604388237, 3611762.371999680995941 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 35, "CONTROL8_1": 335, "X": 12004872.1219, "Y": 3618722.48387, "Elevation": 43.62, "LatDD": 37.247757179799997, "LongDD": -76.706643340799999, "LatDMS": "37º 14' 52\" N", "LongDMS": "76º 42' 24\" W" }, "geometry": { "type": "Point", "coordinates": [ 12004872.121949031949043, 3618722.483735606074333 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 36, "CONTROL8_1": 336, "X": 11970974.934, "Y": 3625595.39089, "Elevation": 78.2, "LatDD": 37.268341922200001, "LongDD": -76.822663852199994, "LatDMS": "37º 16' 6\" N", "LongDMS": "76º 49' 22\" W" }, "geometry": { "type": "Point", "coordinates": [ 11970974.934166103601456, 3625595.390921518206596 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 37, "CONTROL8_1": 337, "X": 12012434.387, "Y": 3625398.37508, "Elevation": 81.96, "LatDD": 37.265691916800002, "LongDD": -76.680224880599994, "LatDMS": "37º 15' 56\" N", "LongDMS": "76º 40' 49\" W" }, "geometry": { "type": "Point", "coordinates": [ 12012434.387008190155029, 3625398.375239431858063 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 38, "CONTROL8_1": 338, "X": 12028692.8991, "Y": 3613437.3951, "Elevation": 78.67, "LatDD": 37.231973227099999, "LongDD": -76.625180537399999, "LatDMS": "37º 13' 55\" N", "LongDMS": "76º 37' 31\" W" }, "geometry": { "type": "Point", "coordinates": [ 12028692.899110525846481, 3613437.395224437117577 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 39, "CONTROL8_1": 339, "X": 12036344.5141, "Y": 3606989.20309, "Elevation": 60.23, "LatDD": 37.213846327, "LongDD": -76.599349101300007, "LatDMS": "37º 12' 50\" N", "LongDMS": "76º 35' 58\" W" }, "geometry": { "type": "Point", "coordinates": [ 12036344.514056608080864, 3606989.203068345785141 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 40, "CONTROL8_1": 340, "X": 11970044.7849, "Y": 3680567.54198, "Elevation": 123.2, "LatDD": 37.419344152299999, "LongDD": -76.822503120299999, "LatDMS": "37º 25' 10\" N", "LongDMS": "76º 49' 21\" W" }, "geometry": { "type": "Point", "coordinates": [ 11970044.784779697656631, 3680567.54213185608387 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 41, "CONTROL8_1": 341, "X": 11984788.1459, "Y": 3659615.37889, "Elevation": 107.08, "LatDD": 37.361078867499998, "LongDD": -76.773063106600006, "LatDMS": "37º 21' 40\" N", "LongDMS": "76º 46' 23\" W" }, "geometry": { "type": "Point", "coordinates": [ 11984788.146040946245193, 3659615.37898376584053 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 42, "CONTROL8_1": 342, "X": 11984451.7581, "Y": 3653094.31904, "Elevation": 88.86, "LatDD": 37.343188722400001, "LongDD": -76.774630419, "LatDMS": "37º 20' 35\" N", "LongDMS": "76º 46' 29\" W" }, "geometry": { "type": "Point", "coordinates": [ 11984451.75793419778347, 3653094.31919127702713 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 43, "CONTROL8_1": 343, "X": 11995329.416, "Y": 3633907.09496, "Elevation": 95.82, "LatDD": 37.289948159, "LongDD": -76.738449491500006, "LatDMS": "37º 17' 24\" N", "LongDMS": "76º 44' 18\" W" }, "geometry": { "type": "Point", "coordinates": [ 11995329.415968865156174, 3633907.095098599791527 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 44, "CONTROL8_1": 344, "X": 11987855.829, "Y": 3608279.49097, "Elevation": 12.96, "LatDD": 37.219953248800003, "LongDD": -76.765754332599997, "LatDMS": "37º 13' 12\" N", "LongDMS": "76º 45' 57\" W" }, "geometry": { "type": "Point", "coordinates": [ 11987855.828881949186325, 3608279.49084210395813 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 45, "CONTROL8_1": 345, "X": 11995794.174, "Y": 3606156.29097, "Elevation": 7.61, "LatDD": 37.213719142400002, "LongDD": -76.738631902899996, "LatDMS": "37º 12' 49\" N", "LongDMS": "76º 44' 19\" W" }, "geometry": { "type": "Point", "coordinates": [ 11995794.173897609114647, 3606156.291020274162292 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 46, "CONTROL8_1": 346, "X": 12007418.4991, "Y": 3608706.60009, "Elevation": 9.11, "LatDD": 37.220120006400002, "LongDD": -76.698553113700001, "LatDMS": "37º 13' 12\" N", "LongDMS": "76º 41' 55\" W" }, "geometry": { "type": "Point", "coordinates": [ 12007418.499074101448059, 3608706.600224107503891 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 47, "CONTROL8_1": 347, "X": 12009540.555, "Y": 3618763.99095, "Elevation": 35.04, "LatDD": 37.247626509200003, "LongDD": -76.690604517599994, "LatDMS": "37º 14' 51\" N", "LongDMS": "76º 41' 26\" W" }, "geometry": { "type": "Point", "coordinates": [ 12009540.555197447538376, 3618763.990870431065559 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 48, "CONTROL8_1": 348, "X": 11957951.3441, "Y": 3623801.68209, "Elevation": 13.79, "LatDD": 37.264043226, "LongDD": -76.867520271, "LatDMS": "37º 15' 51\" N", "LongDMS": "76º 52' 3\" W" }, "geometry": { "type": "Point", "coordinates": [ 11957951.344071611762047, 3623801.682238608598709 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 49, "CONTROL8_1": 349, "X": 11966735.6139, "Y": 3674909.96092, "Elevation": 98.45, "LatDD": 37.403969178399997, "LongDD": -76.834240099200002, "LatDMS": "37º 24' 14\" N", "LongDMS": "76º 50' 3\" W" }, "geometry": { "type": "Point", "coordinates": [ 11966735.613904610276222, 3674909.960927352309227 ] } }
+,
+{ "type": "Feature", "properties": { "CONTROL83A": 50, "CONTROL8_1": 350, "X": 12034926.1479, "Y": 3603995.25698, "Elevation": 59.9, "LatDD": 37.205703297299998, "LongDD": -76.604425353899998, "LatDMS": "37º 12' 21\" N", "LongDMS": "76º 36' 16\" W" }, "geometry": { "type": "Point", "coordinates": [ 12034926.147798866033554, 3603995.256956517696381 ] } }
+
+]
+}
