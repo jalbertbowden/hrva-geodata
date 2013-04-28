@@ -1,0 +1,37 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "NAME": "Toano Middle School", "SOURCETHM": "Midsch", "code": "S2", "code2": "M1", "Location": "County", "rotate": -30, "ADDR": "7817 Richmond Road", "CITY": "Toano", "STATE": "VA", "ZIP": "23168", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11976368.300675943493843, 3665011.124425858259201 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "James Blair Middle School", "SOURCETHM": "Midsch", "code": "S11", "code2": "M2", "Location": "City", "rotate": -30, "ADDR": "117 Ironbound Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11998915.207025602459908, 3634450.530363440513611 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Berkeley Middle School", "SOURCETHM": "Midsch", "code": "S10", "code2": "M3", "Location": "City", "rotate": -30, "ADDR": "1118 Ironbound Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11995607.393431276082993, 3628024.640328109264374 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Lafayette High School", "SOURCETHM": "Highsch", "code": "S4", "code2": "H1", "Location": "County", "rotate": -30, "ADDR": "4460 Longhill Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23188", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11987540.460418194532394, 3643692.646065518260002 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Jamestown High School", "SOURCETHM": "Highsch", "code": "S9", "code2": "H2", "Location": "County", "rotate": -30, "ADDR": "3751 John Tyler Highway", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11980611.381756693124771, 3619685.699328854680061 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Norge Elementary School", "SOURCETHM": "Elemsch", "code": "S3", "code2": "E1", "Location": "County", "rotate": -30, "ADDR": "7311 Richmond Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23188", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11985607.815005272626877, 3660836.208563104271889 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "D.J. Montague Elementary School", "SOURCETHM": "Elemsch", "code": "S5", "code2": "E2", "Location": "County", "rotate": -30, "ADDR": "5380 Centerville Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11979372.733643442392349, 3641118.476673185825348 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Clara Byrd Baker Elementary School", "SOURCETHM": "Elemsch", "code": "S6", "code2": "E3", "Location": "County", "rotate": -30, "ADDR": "3131 Ironbound Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11987448.563292279839516, 3618744.029952347278595 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Rawls Byrd Elementary School", "SOURCETHM": "Elemsch", "code": "S7", "code2": "E4", "Location": "County", "rotate": -30, "ADDR": "112 Laurel Lane", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11997387.006998032331467, 3618662.068502098321915 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "James River Elementary School", "SOURCETHM": "Elemsch", "code": "S8", "code2": "E5", "Location": "County", "rotate": -30, "ADDR": "8901 Pocahontas Trail", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 12031246.918936863541603, 3605387.19774217903614 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Stonehouse Elementary School", "SOURCETHM": "Elemsch", "code": "S1", "code2": "E6", "Location": "County", "rotate": -30, "ADDR": "3651 Rochambeau Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23188", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11978303.741686940193176, 3671644.219755440950394 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Matthew Whaley Elementary School", "SOURCETHM": "Elemsch", "code": "S12", "code2": "E7", "Location": "City", "rotate": -30, "ADDR": "301 Scotland Street", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23185", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 12005191.884760946035385, 3628718.555935025215149 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Matoaka Elementary School", "SOURCETHM": "Elemsch", "code": "S13", "code2": "E8", "Location": "County", "rotate": -30, "ADDR": "4001 Brick Bat Road", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23188", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11972066.824042692780495, 3628512.77124160528183 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Warhill High School", "SOURCETHM": "Highsch", "code": "S14", "code2": "H3", "Location": "County", "rotate": -30, "ADDR": "4615 Opportunity Way", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23188", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11989581.865784198045731, 3649153.766704931855202 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Hornsby Middle School", "SOURCETHM": "Midsch", "code": "S15", "code2": "M4", "Location": "County", "rotate": -30, "ADDR": "850 Jolly Pond Rd", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23188", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11975475.281136527657509, 3649380.808245599269867 ] } }
+,
+{ "type": "Feature", "properties": { "NAME": "Blayton Elementary School", "SOURCETHM": "Elemsch", "code": "S16", "code2": "E9", "Location": "County", "rotate": -30, "ADDR": "800 Jolly Pond Rd", "CITY": "Williamsburg", "STATE": "VA", "ZIP": "23188", "Code_1": "WMSBG\/JCC" }, "geometry": { "type": "Point", "coordinates": [ 11975719.44337785243988, 3650025.442455023527145 ] } }
+
+]
+}
