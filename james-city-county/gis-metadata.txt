@@ -1,0 +1,329 @@
+James City County GIS Layers Metadata – DRAFT
+Contact Information: GIS Supervisor: Kim Hazelwood - 757-253-6654
+GIS Analyst: James City County Real Estate Assessment Division, Mapping/GIS Section 101-F Mounts Bay Road, P.O. Box 8784 Williamsburg, VA 23187-8784 Facsimile: 757-253-6601 Electronic Mail Address: khazelwood@james-city.va.us
+Hours of Service: 8:00 am - 5:00 pm
+Internet Website Address: http://www.jccegov.com/gis
+Distribution Liability: Although these data have been processed successfully on a computer system at James City County, no warranty expressed or implied is made by James City County regarding the utility of the data on any other system, nor shall the act of distribution constitute any such warranty. No responsibility is assumed by James City County in the use of these data.
+Use Constraints: This data is neither legally recorded nor a survey and is not intended to be used as such. The information displayed is a compilation of records, information, and data obtained from various sources, and James City County is not responsible for its accuracy or how current it may be. If discrepancies are found, please contact the Real Estate Assessment Division of James City County, Mapping/GIS Section.
+Attribute Accuracy Report: James City County makes every reasonable effort to insure the accuracy of the data set. Within the urban areas of the county we strive to have a plus or minus 5 foot accuracy. Out in the rural areas, where sometimes we do not have any recently recorded plats, the accuracy could go higher to almost a plus or minus 20 feet.
+Spatial Reference Information: Projected Coordinate System: NAD 1983 StatePlane Virginia South FIPS 4502 Feet Projection: Lambert Conformal Conic Linear Unit: Foot US Geographic Coordinate System: GCS North American 1983 Datum: D North American 1983
+Data Format: ESRI Shapefile (.shp)
+
+Agricultural and Forestal District
+Polygon layer to show the parcels that fall into the Agricultural and Forestal District
+File name: JCC_AFD.shp
+Fields
+CASE_ = Case Number
+NAME = Case Name
+PIN = Parcel Identification Number
+CODE = internal field
+
+Bikeways
+Line layer displaying current and future bikeways for James City County, York County and City of Williamsburg. Map layer is maintained by York County.
+
+BMP Ponds
+Point layer showing locations of Best Management Practice Ponds maintained by the Environment Department.
+File name: JCC_BMPs.shp
+Fields
+ID =
+BMP_ =
+PHASE =
+
+Buildings
+Polygon layer displaying building footprints as of the 2007 Orthophotography.
+File name: JCC_Buildings.shp
+Fields
+Code = Classification of building
+
+Census Data
+All census data layers were created and are maintained by the U.S. Census Bureau. Data can be downloaded via their website: http://www.census.gov
+
+Comprehensive Plan
+Polygon layer displaying the 2003 Comprehensive Plan land uses.
+File name: JCC_CompPlan.shp
+Fields
+CODE_DEFIN = Classification of land use
+
+Contours 2 Feet
+Line layer depicting 2 foot contour elevations derived from the 2007 Orthophotography Digital Terrain Model.
+File name: JCC_Topography.shp
+Fields
+ELEVATIO = Elevation
+INTERVAL_ = interval for contours 2, 10 or 20 feet
+TEXT_LABEL = Label for all contours
+Feet_10 = Label for 10 foot interval contours only
+Feet_20 = Label for 20 foot interval contours only
+
+County Boundary
+Polygon layer displaying the political boundary of James City County.
+File name: JCC_County_Boundary.shp
+
+Easements
+Polygon layer depicting the easements by classification.
+File name: JCC_Easements.shp
+Fields
+Access = Access/Egress/Ingress/Prohibitive
+ColonialPi = Colonial Pipeline
+Conservati = Conservation
+Dam = Dam
+DrainagePr = Private Drainage
+DrainagePu = Public Drainage
+Greenway = Greenway
+HRSD = Hampton Roads Sanitation Department
+Landscape = Landscape/Landscape Protection Zones
+Miscellane = Miscellaneous easements
+OpenSpace = Open Space
+Scenic = Scenic
+SewerLine = Sewer Line
+UtilityMis = Miscellaneous Utility easements
+VDOT = Virginia Department of Transportation
+VirginiaPo = Virginia Power
+WaterLine = Water Line
+Wetlands = Wetlands
+Stormwater = Storm Water
+
+Edge of Pavement
+Polygon layer displaying the edge of pavement derived from the 2007 Orthophotography.
+Layer created by SANBORN Total Geospatial Solutions
+Features are in the process of being coded.
+File name: JCC_Edge_Of_Pavement.shp
+
+Enterprise Zone
+Polygon layer showing the extent of the James River Enterprise Zone.
+File name: JCC_Enterprise_Zone.shp
+
+FEMA Flood Hazards
+All FEMA Flood Hazard data layers were created and are maintained by the Federal Emergency Management Agency (FEMA). Data can be downloaded via their website: http://www.fema.gov/hazard/flood
+Geodetic Ground Control Network
+Point layer displaying the 1990 geodetic ground control network. The survey mark reference and recovery data guide is available for download: http://www.jccegov.com/pdf/gisdocuments/JCC_Geodetic_Ground_Control_Network.pdf
+File name: JCC_Control_Points.shp
+Fields
+CONTROL83A = Unique ID
+CONTROL8_1 = Station number
+X = Easting coordinate for the Virginia State Plane South (NAD83) coordinate system
+Y = Northing coordinate for the Virginia State Plane South (NAD83) coordinate system
+Elevation = Elevation in feet
+
+
+Golf Courses
+Two polygon layers showing the locations and information for golf courses and golf greens derived from the 2007 Orthophotography.
+File name: JCC_Golf_Courses.shp
+Fields
+COURSE = Name of the golf course
+HOLE = Hole number
+Course2 = Abbreviated name of golf course
+FireMapBoo = internal field
+File name: JCC_Golf_Greens.shp
+Fields
+COURSE = Name of the golf course
+HOLE = Hole number
+
+Marsh
+Polygon layer displaying the marsh areas derived from the 2007 Orthophotography Digital Terrain Model.
+File name: JCC_Marsh.shp
+
+Orthophotography 2007 Grid
+Polygon layer displaying the 2007 Orthophotography grid. Each tile represents one 2007 photo with six inch resolution.
+File name: JCC_Orthophotography_2007_Grid.shp
+Fields
+NAME = Tile identifier
+
+Parcels
+Property polygons and data for parcels showing property boundaries and information for each parcel.
+File name: JCC_Parcels.shp
+Fields
+PIN = Parcel Identification Number
+TaxMapPage = Map Book Number, first three digits of PIN
+DC = Double Circle Number, fourth and fifth digits of PIN
+LOT_NUM = Lot Number, last digits of PIN
+ADDR_NUM = Address Number
+PRE_DIR = Street Direction of Address
+PLAINST = Street Name of Address
+STREETTYPE = Street Type of Address
+SUF_DIR = Street Name of Address
+APT = Apartment Number of Address
+CITY = City of Address
+
+Parks
+Polygon layer displaying parks and recreation land in and around James City County.
+File name: JCC_Parks.shp
+Fields
+PIN = Parcel Identification Number if available
+OWNER1 = Jurisdictional owner
+NAME = Name of park or recreation
+Locality = Location of park or recreation
+
+Polling Places
+Point layer showing the polling locations for James City County precincts.
+File name: JCC_Polling_Place.shp
+Fields
+NAME = Name of polling location
+PRECINCT = James City County precinct
+PCTNUM = Precinct Number
+CODE = internal field
+
+Precincts
+Polygon layer showing the locations of voting precincts for James City County.
+File name: JCC_Precincts.shp
+Fields
+PRECINCT = James City County voting precinct
+HOUSE_DIST = Virginia House of Delegates district number
+POLLING_PL = Name of Polling location
+DISTRICT = James City County district
+District_n = James City County district number
+
+Primary Service Area
+Polygon layer displaying the Primary Service Area (PSA). The James City County Board of Directors has authorized water and sewer operations for the James City Sewer Authority (JCSA) within the PSA in the County.
+File name: JCC_PSA.shp
+
+Railroad
+Line layer showing the centerline of railroad tracks derived from the 2007 Orthophotography.
+File name: JCC_Railroad.shp
+Fields
+NAME = Owner of railroad line
+Locality = Location of railroad
+Tracks = Number of railroad tracks
+Class = Classification between main line and local line
+
+Resource Protection Area and Buffer
+Polygon layer showing the extents of the Resource Protection Area (RPA) and 100-foot buffer. Environmental features that play a vital role in James City County’s effort to Protect the Chesapeake Bay, as well as a 100-foot buffer area adjacent to and extending landward from them, are protected by the County’s Chesapeake Bay Preservation Ordinance. This layer is maintained by the Environment Department.
+File name: JCC_PRA_and_Buffer.shp
+Fields
+RPA_ID = RPA Classification (1-1990, 2-2004 Revised, 3-Field Verified, 4-Surveyed)
+
+Right of Way
+Polygon layer showing location of VDOT right of way (ROW) and private ROW.
+File name: JCC_ROW.shp
+Fields
+Type = ROW classification, not validated
+
+Schools
+Point layer showing the locations of the Williamsburg-James City County public schools.
+File name: JCC_Schools.shp
+Fields
+NAME = Name of school
+SOURCETHM = Type of school (Elementary, Middle, High)
+Code = internal field
+Code2 = internal field
+Location = Location of school, either James City County or City of Williamsburg
+Rotate = internal field
+ADDR = Street address for school
+CITY = City address for school STATE = State address for school
+ZIP = Zip Code address for school
+Code_1 = internal field
+
+Schools Zones
+Polygon layers showing the elementary, middle, and high school districts of the Williamsburg-James City County public school system.
+File name: JCC_Elementary_School_Zones.shp
+Fields
+NAME = Name of school district
+File name: JCC_Middle_School_Zones.shp
+Fields
+NAME = Name of school district
+File name: JCC_High_School_Zones.shp
+Fields
+NAME = Name of school district
+
+Sections
+Polygon layers showing the division, phase, or section of a subdivision.
+File name: JCC_Sections.shp
+Fields
+Subdivisio = Subdivision name
+Phase = Division, phase, or section of the subdivision
+Soils
+All Soil data layers were created and are maintained by the U.S. Department of Agriculture, Natural Resources Conservation Service. Data can be downloaded via their website: http://soils.usda.gov
+
+Spot Elevations
+Point layer displaying spot elevation derived from the 2007 Orthophotography Digital Terrain Model.
+File name: JCC_Spot_Elevations.shp
+Fields
+Handle = internal field
+Elevation = Elevation in feet
+
+Streams
+Line layer displaying the streams derived from the 2007 Orthophotography Digital Terrain Model.
+File name: JCC_Streams.shp
+Fields
+Name = Stream name, not validated
+
+Streets
+Line layer displaying the street centerlines for James City County and some surrounding areas.
+File name: JCC_Streets.shp
+Fields
+PRE_DIR = Name prefix, such as North, South, East, West
+PLAINST = Name of street
+STREETTYPE = Name type designation such as Lane, Road, Drive, Court
+SUF_DIR = Name suffix, such as North, South, East, West
+CITY = Location of street
+NAME = Street name concatinated including prefix, name, type, suffix
+Code = Street classification, such as interstate, primary, secondary, dirt
+Subdivisions = Subdivision name street is in if applicable
+Indentifier = VDOT unique identifier
+Date_2 = Date street added or changed in layer
+Locality = Location of street
+SpeedLimit = Posted Speed Limit
+Taxmap = internal field
+ROUTE = Route number designation if applicable
+
+Subdivisions
+Polygon layer derived from combining parcels that share the same neighborhood.
+File name: JCC_Subdivisions.shp
+Fields
+NAME = Subdivision name
+Prop_Type = Classification of subdivision
+
+Tax Map Grid
+Polygon layer displaying the tax map grid.
+File name: JCC_Tax_Map_Grid.shp
+Fields
+SHEET = Tax map page number
+
+Transit
+Line layer displaying the Williamsburg Area Transit bus routes and a point layer showing the bus stops.
+File name: JCC_Transit_Lines.shp
+Fields
+Line = Classification of bus route
+Blue = Blue line
+Gray = Gray line
+Green = green line
+Orange = Orange line
+Purple = Purple line
+Red = Red line
+Tan = Tan line
+Yellow = Yellow line
+File name: JCC_Transit_Stops.shp
+Fields
+Route = Classification of bus route
+Descriptio = Description of bus stop location
+Bound = Route direction
+
+Watersheds
+Polygon layer displaying the Watersheds created by the Environmental Department.
+File name: JCC_Watersheds.shp
+Fields
+NAME = Watershed name
+ID_CODE = Abbreviation of watershed name
+
+Water Bodies
+Polygon layer displaying the water features derived from the 2007 Orthophotography Digital Terrain Model.
+File name: JCC_Water.shp
+Fields
+NAME = Water body name
+JCC = Water body is located within James City County
+Tidal = Water body is tidal
+Wetlands
+All National Wetlands Inventory data layers were created and are maintained by the U.S. Department of the Interior, Fish and Wildlife Service. Data can be downloaded via their website: http://www.fws.gov/nwi
+
+Zoning
+Polygon layer displaying the zoning classifications in the county.
+File name: JCC_Zoning.shp
+Fields
+CODE = Zoning code classification
+Descriptio = Zoning classification description
+
+
+
+      <a href="http://www.jamescitycountyva.gov/assessments/gis-mapping-layers.html">James City County GIS Mapping Layers</a>
+    </div>
+  </body>
+</html>
