@@ -1,4 +1,5 @@
 hrva-geodata
 ============
 
-Shapefiles and GeoJSON for Cities in Hampton Roads, VA. At the moment only consisting of Chesapeake, Portsmouth and Norfolk
+Shapefiles, GeoJSON, and other formats of geodata for Cities in Hampton Roads, VA. At the moment only consisting of Chesapeake, Portsmouth, Norfolk, James City County, and Williamsburg.
+Maps included in a few. Will update for all.
