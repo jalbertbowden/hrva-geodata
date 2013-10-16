@@ -1,0 +1,4 @@
+"County or Parish"|"VA115"|"Mathews"|66200|"10866"|"147704"
+"MLRA"|"153B"|"Tidewater Area"|66200|"10866"|"147705"
+"Rainfall Factor Area"|"220"|"Rainfall Factor"|66200|"10866"|"147706"
+"State or Territory"|"VA"|"Virginia"|66200|"10866"|"147707"
