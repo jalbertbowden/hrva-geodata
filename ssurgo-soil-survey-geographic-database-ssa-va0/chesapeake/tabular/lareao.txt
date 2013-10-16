@@ -1,0 +1,4 @@
+"County or Parish"|"VA550"|"Chesapeake City"|230600|"10891"|"147981"
+"MLRA"|"153B"|"Tidewater Area"|230600|"10891"|"147982"
+"State or Territory"|"VA"|"Virginia"|230600|"10891"|"147983"
+"Physiographic Province"|"CP"|"Coastal Plain"|230600|"10891"|"147984"
