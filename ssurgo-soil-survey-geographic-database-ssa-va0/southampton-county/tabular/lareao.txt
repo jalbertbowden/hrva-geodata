@@ -1,0 +1,6 @@
+"County or Parish"|"VA175"|"Southampton"|388352|"10882"|"147945"
+"State or Territory"|"VA"|"Virginia"|390800|"10882"|"147946"
+"County or Parish"|"VA620"|"Franklin City"|2448|"10882"|"147947"
+"MLRA"|"153A"|"Atlantic Coast Flatwoods"|190955|"10882"|"147948"
+"MLRA"|"133A"|"Southern Coastal Plain"|199845|"10882"|"147949"
+"Rainfall Factor Area"|"240"|"Rainfall Factor"|390800|"10882"|"147950"
