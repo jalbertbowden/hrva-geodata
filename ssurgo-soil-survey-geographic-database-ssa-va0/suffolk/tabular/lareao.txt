@@ -1,0 +1,5 @@
+"County or Parish"|"VA800"|"Suffolk City"|274900|"10898"|"148049"
+"State or Territory"|"VA"|"Virginia"|274900|"10898"|"148050"
+"MLRA"|"153A"|"Atlantic Coast Flatwoods"|161140|"10898"|"148051"
+"MLRA"|"153B"|"Tidewater Area"|114060|"10898"|"148052"
+"Rainfall Factor Area"|"250"|"Rainfall Factor"|274900|"10898"|"148053"
