@@ -1,0 +1,6 @@
+"County or Parish"|"VA810"|"Virginia Beach City"|196600|"10899"|"184210"
+"Rainfall Factor Area (USLE)"|"260"|"Rainfall Factor"|196600|"10899"|"184211"
+"MLRA"|"153B"|"Tidewater Area"|196600|"10899"|"184212"
+"State or Territory"|"VA"|"Virginia"|196600|"10899"|"184213"
+"MLRA Soil Survey Regional Office Area"|"14"|"Raleigh, NC"||"10899"|"184214"
+"MLRA Soil Survey Area"|"14-8"|"Richmond, Virginia"||"10899"|"184215"
