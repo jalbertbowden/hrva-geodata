@@ -1,0 +1,6 @@
+"County or Parish"|"VA181"|"Surry"|198500|"10885"|"167362"
+"MLRA"|"153A"|"Atlantic Coast Flatwoods"|11255|"10885"|"167363"
+"MLRA"|"133A"|"Southern Coastal Plain"|187245|"10885"|"167364"
+"National Park System Land"|"COLO"|"Colonial National Historical Park"|456|"10885"|"167365"
+"Rainfall Factor Area"|"230"|"Rainfall Factor"|198500|"10885"|"167366"
+"State or Territory"|"VA"|"Virginia"|198500|"10885"|"167367"
